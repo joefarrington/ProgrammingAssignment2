@@ -2,7 +2,7 @@
 ## be loaded from the cache rather than computed each time it is needed.
 
 ## This function takes a matrix as input and creates a "matrix" object, which is a list containing functions 
-## to set the value of a matrix, get the value of the matrix, set the value of 
+## to set the value of the matrix, get the value of the matrix, set the value of 
 ## the inverse of the matrix and get the value of the inverse of the matrix.
 
 makeCacheMatrix <- function(x = matrix()) {
