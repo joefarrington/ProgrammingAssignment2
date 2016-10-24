@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This pair of functions will cache the inverse of a matrix, so that the inverse can
+## be loaded from the cache rather than computed each time it is needed.
 
 ## This function takes a matrix as input and creates a "matrix" object, which is a list containing functions 
 ## to set the value of a matrix, get the value of the matrix, set the value of 
